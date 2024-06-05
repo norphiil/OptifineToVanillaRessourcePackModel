@@ -1,0 +1,6 @@
+{
+	"parent": "./template_trapdoor_2",
+	"textures": {
+		"trapdoor": "./spruce_trapdoor_1"
+	}
+}

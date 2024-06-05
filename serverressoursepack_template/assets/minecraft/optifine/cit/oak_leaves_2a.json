@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_leaves_2",
+	"textures": {
+		"leaves": "./oak_leaves_2a",
+		"leaves_a": "./oak_leaves_2a_01",
+		"leaves_b": "./oak_leaves_2a_02"
+		}
+}

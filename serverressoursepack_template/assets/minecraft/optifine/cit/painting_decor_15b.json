@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./cit_item_wall",
+	"textures": {
+		"0": "./painting_decor_15",
+		"1": "./painting_decor_15b"
+	},
+	"elements": [
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 2],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 1, 16, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 1, 0],
+			"to": [1, 15, 2],
+			"faces": {
+				"north": {"uv": [1, 2, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 16], "texture": "#0"},
+				"south": {"uv": [0, 2, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15, 1, 0],
+			"to": [16, 15, 2],
+			"faces": {
+				"north": {"uv": [0, 2, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 16], "texture": "#0"},
+				"south": {"uv": [1, 2, 2, 16], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.5, 0, 1],
+			"to": [15.5, 16, 1.01],
+			"faces": {
+				"north": {"uv": [15, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 15, 16], "texture": "#1"}
+			}
+		}
+	]
+}

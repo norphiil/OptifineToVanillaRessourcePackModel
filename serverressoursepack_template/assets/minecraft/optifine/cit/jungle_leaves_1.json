@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_leaves_1",
+	"textures": {
+		"leaves_0": "./jungle_leaves_0",
+		"leaves_1": "./jungle_leaves_1"
+	}
+}

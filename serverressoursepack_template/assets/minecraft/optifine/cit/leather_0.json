@@ -1,0 +1,6 @@
+{
+	"parent": "./template_leather_0",
+	"textures": {
+		"leather": "./leather_0"
+	}
+}

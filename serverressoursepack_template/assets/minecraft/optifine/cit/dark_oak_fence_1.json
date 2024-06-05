@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./cit_item",
+	"textures": {
+		"1_0": "block/dark_oak_planks"
+	},
+	"elements": [
+		{
+			"from": [0.1, 0, 2],
+			"to": [2.1, 2, 14],
+			"faces": {
+				"east": {"uv": [2, 1, 14, 3], "texture": "#1_0"},
+				"west": {"uv": [2, 1, 14, 3], "texture": "#1_0"},
+				"up": {"uv": [2, 1, 14, 3], "rotation": 90, "texture": "#1_0"},
+				"down": {"uv": [2, 1, 14, 3], "rotation": 90, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [0.1, 0, 0.1],
+			"to": [2.1, 15.5, 2.1],
+			"faces": {
+				"north": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"east": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"west": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"up": {"uv": [1, 1, 3, 3], "texture": "#1_0"},
+				"down": {"uv": [1, 1, 3, 3], "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [0.1, 0, 13.9],
+			"to": [2.1, 15.5, 15.9],
+			"faces": {
+				"north": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"east": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"west": {"uv": [0.5, 1, 16, 3], "rotation": 90, "texture": "#1_0"},
+				"up": {"uv": [13, 1, 15, 3], "texture": "#1_0"},
+				"down": {"uv": [13, 1, 15, 3], "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [0.1, 10.5, 2],
+			"to": [2.1, 15.5, 14],
+			"faces": {
+				"east": {"uv": [2, 1, 14, 6], "texture": "#1_0"},
+				"west": {"uv": [2, 1, 14, 6], "texture": "#1_0"},
+				"up": {"uv": [2, 1, 14, 3], "rotation": 90, "texture": "#1_0"},
+				"down": {"uv": [2, 1, 14, 3], "rotation": 90, "texture": "#1_0"}
+			}
+		}
+	]
+}

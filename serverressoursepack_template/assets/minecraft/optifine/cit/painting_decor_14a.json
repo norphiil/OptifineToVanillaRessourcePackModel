@@ -1,0 +1,6 @@
+{
+	"parent": "./cit_generated",
+	"textures": {
+		"layer0": "./party_flaga"
+	}
+}

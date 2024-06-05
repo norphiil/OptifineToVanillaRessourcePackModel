@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/candybars",
+		"2": "block/MizunoArchive/light_gray_concrete_powder",
+		"particle": "block/candybars"
+	},
+	"elements": [
+		{
+			"from": [3.5, 0.475, 6.1],
+			"to": [11.5, 0.525, 9.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.05], "texture": "#2"},
+				"east": {"uv": [6.667, 0, 7.666, 3.199], "texture": "#2"},
+				"south": {"uv": [0, 0, 0.5, 0.05], "texture": "#2"},
+				"west": {"uv": [0, 0, 13, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 13, 2], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [0, 0, 13, 2], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [4, 0, 6],
+			"to": [11, 1, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [6.8, 0, 7.799, 3.199], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [6.8, 0, 7.799, 3.199], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [6.8, 0, 7.799, 3.199], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [6.8, 0, 7.799, 3.199], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 6.867, 3.199], "texture": "#0"},
+				"down": {"uv": [0, 3.201, 6.6, 6.4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69.75, -149.75, 0],
+			"translation": [-1.5, 3.25, 6.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69.75, -149.75, 0],
+			"translation": [-1.5, 3.25, 6.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -36.25, 0],
+			"translation": [0, 8, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -36.25, 0],
+			"translation": [0, 8, 0]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [30, 21, 0],
+			"translation": [0.75, 9.25, 0],
+			"scale": [1.4082, 1.4082, 1.4082]
+		},
+		"head": {
+			"translation": [0, 19.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Closed Bar",
+			"origin": [12, 8, 9],
+			"children": [0, 1]
+		}
+	]
+}

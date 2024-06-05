@@ -1,0 +1,63 @@
+{
+	"texture": "textures/entity/iron_golem/iron_golem.png",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "head",
+			"attach": true,
+			"invertAxis": "xy",
+			"translate": [0, -31 ,2],
+			"boxes": [
+				{"coordinates": [-4.5, 33, -8, 9, 5, 6], "textureOffset": [87, 2]},
+				{"coordinates": [4, 37, -3.5, 1, 3, 3], "textureOffset": [112, 0]},
+				{"coordinates": [-5, 37, -3.5, 1, 3, 3], "textureOffset": [112, 0]}
+			]
+		},
+        {
+			"part": "body",
+			"attach": true,
+			"invertAxis": "xy",
+			"translate": [0, -31 ,0],
+			"boxes": [
+				{"coordinates": [5, 28, -7, 2, 3, 1], "textureOffset": [88, 56]},
+				{"coordinates": [5, 31, -7, 2, 3, 13], "textureOffset": [88, 61]},
+				{"coordinates": [-7, 28, -7, 2, 3, 1], "textureOffset": [88, 56]},
+				{"coordinates": [-7, 31, -7, 2, 3, 13], "textureOffset": [88, 61]},
+				{"coordinates": [-3, 23, 6, 6, 2, 1], "textureOffset": [96, 28]},
+				{"coordinates": [-3, 29, 6, 6, 2, 1], "textureOffset": [96, 24]},
+				{"coordinates": [-4, 24, 6, 2, 6, 1], "textureOffset": [88, 24]},
+				{"coordinates": [2, 24, 6, 2, 6, 1], "textureOffset": [88, 16]},
+				{"coordinates": [-1, 25, 4.5, 1, 2, 2], "textureOffset": [96, 15]},
+				{"coordinates": [0, 27, 4.5, 1, 2, 2], "textureOffset": [102, 15]},
+				{"coordinates": [-2, 27, 4.5, 2, 1, 2], "textureOffset": [96, 19]},
+				{"coordinates": [0, 26, 4.5, 2, 1, 2], "textureOffset": [104, 19]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"attach": false,
+			"invertAxis": "y",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [9, 10.5, -3, 4, 23, 6], "textureOffset": [60, 58]},
+				{"coordinates": [10, 9.5, -2, 2, 1, 4], "textureOffset": [88, 44]},
+				{"coordinates": [9, 3.5, -3, 4, 6, 2], "textureOffset": [88, 32]},
+				{"coordinates": [9, 5.5, -1, 4, 4, 4], "textureOffset": [104, 32]},
+				{"coordinates": [9, 3.5, 1, 4, 2, 2], "textureOffset": [104, 40]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"attach": false,
+			"invertAxis": "y",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [-13, 10.5, -3, 4, 23, 6], "textureOffset": [60, 21]},
+				{"coordinates": [-12, 9.5, -2, 2, 1, 4], "textureOffset": [88, 44]},
+				{"coordinates": [-13, 3.5, -3, 4, 6, 2], "textureOffset": [88, 32]},
+				{"coordinates": [-13, 5.5, -1, 4, 4, 4], "textureOffset": [104, 48]},
+				{"coordinates": [-13, 3.5, 1, 4, 2, 2], "textureOffset": [104, 56]}
+			]
+		}	
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_wool_0",
+	"textures": {
+		"sheep": "./sheep_0",
+		"wool": "block/light_blue_wool"
+	}
+}

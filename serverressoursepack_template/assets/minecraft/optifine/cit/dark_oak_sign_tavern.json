@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_sign_tavern",
+	"textures": {
+		"sign": "./dark_oak_sign_0",
+		"text": "./dark_oak_sign_text_0"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "./template_flower_0",
+	"textures": {
+		"flower_pot": "./flower_pot_2a",
+		"flower": "./poppy_0",
+		"flower_01": "./poppy_0_01"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./cit_handheld",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    }
+}

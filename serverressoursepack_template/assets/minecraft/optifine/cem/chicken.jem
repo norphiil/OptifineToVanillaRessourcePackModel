@@ -1,0 +1,33 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "bill",
+			"attach": false,
+			"invertAxis": "xy",
+			"translate": [0, 2, -3],
+			"boxes": [
+				{"coordinates": [-1, 0, -1, 2, 2, 2], "textureOffset": [40, 10]}
+			]
+		},
+		{
+			"part": "head",
+			"attach": false,
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, 0, -2, 4, 6, 4], "textureOffset": [40, 0]},
+				{"coordinates": [0, 5, -3, 0, 3, 6], "textureOffset": [48, 10]}
+			]
+		},
+		{
+			"part": "body",
+			"attach": true,
+			"invertAxis": "xy",
+			"translate": [0, -9, 4],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 0, 6, 5], "textureOffset": [40, 18]}
+			]
+		}
+	]
+}

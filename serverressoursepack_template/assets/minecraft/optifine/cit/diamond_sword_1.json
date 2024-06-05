@@ -1,0 +1,6 @@
+{
+    "parent": "./cit_item_tool",
+    "textures": {
+		"layer0": "item/diamond_sword"
+	}
+}

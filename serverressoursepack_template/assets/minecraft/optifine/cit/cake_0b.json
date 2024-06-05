@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_cake_0",
+	"textures": {
+		"plate": "./plate_white",
+		"top": "block/cake_top_1",
+		"side": "block/cake_side_1",
+		"inner": "block/cake_inner_1",
+		"cutlery": "./cutlery"
+	}
+}

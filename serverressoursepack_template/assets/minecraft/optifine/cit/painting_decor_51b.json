@@ -1,0 +1,7 @@
+{
+	"parent": "./template_painting_decor_51",
+	"textures": {
+		"cabinet": "./stripped_birch_log_0",
+		"handle": "./handle_light"
+	}
+}
