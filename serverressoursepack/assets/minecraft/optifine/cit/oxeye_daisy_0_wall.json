@@ -1,7 +1,0 @@
-{
-	"parent": "./template_flower_0_wall",
-	"textures": {
-		"flower": "./oxeye_daisy_0",
-		"flower_01": "./oxeye_daisy_0_01"
-	}
-}

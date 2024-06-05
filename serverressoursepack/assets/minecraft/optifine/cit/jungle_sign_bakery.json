@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_sign_bakery",
-	"textures": {
-		"sign": "./jungle_sign_0",
-		"text": "./jungle_sign_text_0"
-	}
-}

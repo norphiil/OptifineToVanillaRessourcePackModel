@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_carpet_0a",
-	"textures": {
-		"color0": "block/white_wool",
-		"color1": "block/green_wool",
-		"rod": "block/dark_oak_planks"
-	}
-}

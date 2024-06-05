@@ -1,7 +1,0 @@
-{
-	"parent": "./template_flower_0_top",
-	"textures": {
-		"flower": "./grass_0",
-		"flower_01": "./grass_0_01"
-	}
-}

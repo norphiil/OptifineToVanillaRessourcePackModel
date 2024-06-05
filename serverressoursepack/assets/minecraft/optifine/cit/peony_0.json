@@ -1,8 +1,0 @@
-{
-	"parent": "./template_flower_double_0",
-	"textures": {
-		"bottom": "block/peony_bottom",
-		"top": "block/peony_top",
-		"flower_pot": "./flower_pot_l_0"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"parent": "./template_painting_decor_52",
-	"textures": {
-		"cabinet": "block/stripped_oak_log",
-		"handle": "./handle"
-	}
-}

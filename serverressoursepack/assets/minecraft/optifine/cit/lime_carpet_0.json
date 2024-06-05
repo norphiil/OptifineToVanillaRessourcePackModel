@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_carpet_0",
-	"textures": {
-		"color0": "block/lime_wool",
-		"rod": "block/dark_oak_planks"
-	}
-}

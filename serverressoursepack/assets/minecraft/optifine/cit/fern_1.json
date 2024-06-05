@@ -1,6 +1,0 @@
-{
-	"parent": "./template_fern",
-	"textures": {
-		"fern": "./fern_1"
-	}
-}

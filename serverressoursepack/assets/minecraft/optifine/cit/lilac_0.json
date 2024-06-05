@@ -1,8 +1,0 @@
-{
-	"parent": "./template_flower_double_0",
-	"textures": {
-		"bottom": "block/lilac_bottom",
-		"top": "block/lilac_top",
-		"flower_pot": "./flower_pot_l_0a"
-	}
-}

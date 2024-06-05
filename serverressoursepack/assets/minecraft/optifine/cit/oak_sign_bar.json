@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_sign_bar",
-	"textures": {
-		"sign": "./oak_sign_2",
-		"text": "./oak_sign_text_0"
-	}
-}

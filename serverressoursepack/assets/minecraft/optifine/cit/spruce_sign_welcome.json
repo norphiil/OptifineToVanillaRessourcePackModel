@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_sign_welcome",
-	"textures": {
-		"sign": "./spruce_sign_0",
-		"text": "./spruce_sign_text_0"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_sign_bakery",
-	"textures": {
-		"sign": "./birch_sign_0",
-		"text": "./birch_sign_text_0"
-	}
-}

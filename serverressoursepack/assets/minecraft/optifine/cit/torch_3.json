@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./template_torch_3",
-	"textures": {
-		"torch_3": "./torch_3"
-	}
-}

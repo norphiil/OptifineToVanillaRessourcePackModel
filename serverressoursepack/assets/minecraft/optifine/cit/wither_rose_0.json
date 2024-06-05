@@ -1,6 +1,0 @@
-{
-	"parent": "./template_flower_cross",
-	"textures": {
-		"flower": "block/wither_rose"
-	}
-}
