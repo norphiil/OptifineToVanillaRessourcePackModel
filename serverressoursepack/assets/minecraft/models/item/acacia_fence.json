@@ -1,0 +1,113 @@
+{
+    "parent": "minecraft:block/acacia_fence_inventory",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/acacia_fence/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/acacia_fence/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/acacia_fence/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/acacia_fence/4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/acacia_fence/5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/acacia_fence/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/acacia_fence/7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/acacia_fence/8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/acacia_fence/9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/acacia_fence/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/acacia_fence/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/acacia_fence/12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/acacia_fence/13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/acacia_fence/14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/acacia_fence/15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/acacia_fence/16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "item/acacia_fence/17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "item/acacia_fence/18"
+        }
+    ]
+}

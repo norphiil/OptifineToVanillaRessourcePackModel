@@ -1,0 +1,6 @@
+{
+	"parent": "./template_rabbit_hide_1",
+	"textures": {
+		"rabbit_hide": "./rabbit_hide_1a"
+	}
+}

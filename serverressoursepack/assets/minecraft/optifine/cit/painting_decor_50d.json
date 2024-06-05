@@ -1,0 +1,7 @@
+{
+	"parent": "./template_painting_decor_50",
+	"textures": {
+		"cabinet": "./stripped_acacia_log_0",
+		"handle": "./handle_dark"
+	}
+}

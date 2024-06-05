@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_sign_bakery",
+	"textures": {
+		"sign": "./oak_sign_2",
+		"text": "./oak_sign_text_0"
+	}
+}

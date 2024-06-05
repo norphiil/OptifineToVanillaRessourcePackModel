@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_painting_thin",
+	"textures": {
+		"painting": "./painting_decor_10a"
+	}
+}

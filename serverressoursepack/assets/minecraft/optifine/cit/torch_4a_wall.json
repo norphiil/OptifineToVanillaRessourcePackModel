@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_torch_4_wall",
+	"textures": {
+		"torch_4": "./torch_4a"
+	}
+}

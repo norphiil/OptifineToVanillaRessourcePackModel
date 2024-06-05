@@ -1,0 +1,13 @@
+{
+    "parent": "./cit_item_tool",
+    "textures": {
+        "layer0": "item/stone_axe"
+    },
+	"display": {
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -10],
+			"scale": [2, 2, 2]
+		}
+    }
+}

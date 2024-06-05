@@ -1,0 +1,17 @@
+{
+   "models": [
+		{
+			"part": "head",
+			"attach": true,
+			"texture": "textures/entity/sheep/sheep.png",
+			"textureSize": [64, 32],
+			"invertAxis": "xy",
+			"translate": [0,-2,-2],
+			"boxes": [
+				{"coordinates": [-6, 4, -2, 4, 1, 2], "textureOffset": [22, 3]},
+				{"coordinates": [2, 4, -2, 4, 1, 2], "textureOffset": [22, 0]},
+				{"coordinates": [-2, 1, -5, 4, 2, 1], "textureOffset": [34, 0]}
+			]
+		}
+	]
+}

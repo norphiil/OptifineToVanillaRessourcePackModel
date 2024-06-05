@@ -1,0 +1,6 @@
+{
+	"parent": "./template_bowl_4_wall",
+	"textures": {
+		"plate": "./bowl_4b"
+	}
+}

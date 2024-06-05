@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_painting_6",
+	"textures": {
+		"painting": "./painting_6b",
+		"back": "./cit_back"
+	}
+}

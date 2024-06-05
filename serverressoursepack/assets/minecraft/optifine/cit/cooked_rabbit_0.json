@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./cit_item",
+	"textures": {
+		"0": "./plate_black",
+		"1": "./cooked_rabbit_0"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 1, 13],
+			"faces": {
+				"north": {"uv": [3, 2, 13, 3], "texture": "#0"},
+				"east": {"uv": [13, 3, 14, 13], "texture": "#0", "rotation": 90},
+				"south": {"uv": [3, 13, 13, 14], "texture": "#0"},
+				"west": {"uv": [2, 3, 3, 13], "texture": "#0", "rotation": 90},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0.5, 1],
+			"to": [13, 1.5, 3],
+			"faces": {
+				"north": {"uv": [3, 0, 13, 1], "texture": "#0"},
+				"south": {"uv": [3, 2, 13, 3], "texture": "#0"},
+				"up": {"uv": [3, 1, 13, 3], "texture": "#0"},
+				"down": {"uv": [3, 1, 13, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0.5, 13],
+			"to": [13, 1.5, 15],
+			"faces": {
+				"north": {"uv": [3, 13, 13, 14], "texture": "#0"},
+				"south": {"uv": [3, 15, 13, 16], "texture": "#0"},
+				"up": {"uv": [3, 13, 13, 15], "texture": "#0"},
+				"down": {"uv": [3, 13, 13, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 0.5, 1],
+			"to": [3, 1.5, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 3, 1], "texture": "#0"},
+				"east": {"uv": [2, 1, 3, 15], "texture": "#0", "rotation": 90},
+				"south": {"uv": [1, 15, 3, 16], "texture": "#0"},
+				"west": {"uv": [0, 1, 1, 15], "texture": "#0", "rotation": 90},
+				"up": {"uv": [1, 1, 3, 15], "texture": "#0"},
+				"down": {"uv": [1, 1, 3, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [13, 0.5, 1],
+			"to": [15, 1.5, 15],
+			"faces": {
+				"north": {"uv": [13, 0, 15, 1], "texture": "#0"},
+				"east": {"uv": [15, 1, 16, 15], "texture": "#0", "rotation": 90},
+				"south": {"uv": [13, 15, 15, 16], "texture": "#0"},
+				"west": {"uv": [13, 1, 14, 15], "texture": "#0", "rotation": 90},
+				"up": {"uv": [13, 1, 15, 15], "texture": "#0"},
+				"down": {"uv": [13, 1, 15, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 1, 3],
+			"to": [13, 3, 9],
+			"faces": {
+				"north": {"uv": [6, 0, 13, 2], "texture": "#1"},
+				"east": {"uv": [13, 2, 15, 8], "texture": "#1", "rotation": 90},
+				"south": {"uv": [6, 13, 13, 15], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 8], "texture": "#1", "rotation": 270},
+				"up": {"uv": [6, 2, 13, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9, 1, 9],
+			"to": [12, 2, 12],
+			"faces": {
+				"east": {"uv": [13, 8, 14, 11], "texture": "#1", "rotation": 90},
+				"south": {"uv": [9, 11, 12, 12], "texture": "#1"},
+				"west": {"uv": [8, 8, 9, 11], "texture": "#1", "rotation": 270},
+				"up": {"uv": [9, 8, 12, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [11, 2, 11],
+			"to": [12, 3, 14],
+			"faces": {
+				"north": {"uv": [13, 10, 14, 11], "texture": "#1"},
+				"east": {"uv": [13, 10, 14, 13], "texture": "#1", "rotation": 90},
+				"south": {"uv": [13, 12, 14, 13], "texture": "#1"},
+				"west": {"uv": [13, 10, 14, 13], "texture": "#1", "rotation": 270},
+				"up": {"uv": [12, 10, 13, 13], "texture": "#1"},
+				"down": {"uv": [13, 10, 14, 13], "texture": "#1", "rotation": 180}
+			}
+		},
+		{
+			"from": [4, 1, 5],
+			"to": [6, 2, 7],
+			"faces": {
+				"north": {"uv": [0, 5, 2, 6], "texture": "#1"},
+				"west": {"uv": [0, 6, 2, 7], "texture": "#1"},
+				"up": {"uv": [2, 5, 4, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3, 1, 7],
+			"to": [6, 3, 10],
+			"faces": {
+				"north": {"uv": [1, 13, 4, 15], "texture": "#1"},
+				"east": {"uv": [1, 13, 4, 15], "texture": "#1"},
+				"south": {"uv": [1, 13, 4, 15], "texture": "#1"},
+				"west": {"uv": [1, 12, 4, 14], "texture": "#1"},
+				"up": {"uv": [1, 7, 4, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 1, 9],
+			"to": [8, 2, 12],
+			"faces": {
+				"east": {"uv": [1, 13, 4, 14], "texture": "#1"},
+				"south": {"uv": [1, 12, 4, 13], "texture": "#1"},
+				"west": {"uv": [1, 12, 4, 13], "texture": "#1"},
+				"up": {"uv": [3, 9, 6, 12], "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "plate",
+			"isOpen": false,
+			"shade": true,
+			"display": {
+				"visibility": true,
+				"autouv": true
+			},
+			"children": [0, 1, 2, 3, 4]
+		},
+		{
+			"name": "dish",
+			"isOpen": true,
+			"shade": true,
+			"display": {
+				"visibility": true,
+				"autouv": true
+			},
+			"children": [5, 6, 7, 8, 9, 10]
+		}
+	]
+}

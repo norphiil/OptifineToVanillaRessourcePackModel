@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./template_sign_bakery",
+	"textures": {
+		"sign": "./acacia_sign_0",
+		"text": "./acacia_sign_text_0"
+	}
+}

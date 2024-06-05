@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./cit_item_l",
+	"textures": {
+		"0": "./birch_sapling_0",
+		"1_0": "./flower_pot_l_0"
+	},
+	"elements": [
+		{
+			"name": "flower_pot",
+			"from": [4, 0, 4],
+			"to": [12, 7, 12],
+			"faces": {
+				"north": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"east": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"south": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"west": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#1_0"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 32, 8.01],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8.01, 32, 15.2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 10.7, 0],
+			"to": [8.01, 25.1, 16],
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 17.9, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.99, 10.7, 0],
+			"to": [8, 25.1, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 17.9, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [8, 8, 0, 16], "texture": "#0"},
+				"west": {"uv": [8, 8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 10.7, 7.99],
+			"to": [16, 25.1, 8],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 17.9, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [8, 8, 0, 16], "texture": "#0"},
+				"south": {"uv": [8, 8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 10.7, 8],
+			"to": [16, 25.1, 8.01],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 17.9, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"south": {"uv": [0, 8, 8, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [0,
+		{
+			"name": "plant",
+			"children": [1, 2, 3, 4, 5, 6]
+		}
+	]
+}

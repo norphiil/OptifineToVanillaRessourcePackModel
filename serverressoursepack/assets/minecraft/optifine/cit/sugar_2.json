@@ -1,0 +1,123 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./cit_item",
+	"textures": {
+		"0": "./sugar_2"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [3, 0, 8],
+			"to": [7, 4, 12],
+			"faces": {
+				"north": {"uv": [0, 10, 4, 14], "texture": "#0"},
+				"east": {"uv": [0, 10, 4, 14], "texture": "#0"},
+				"south": {"uv": [0, 10, 4, 14], "texture": "#0"},
+				"west": {"uv": [0, 10, 4, 14], "texture": "#0"},
+				"up": {"uv": [8, 10, 12, 14], "texture": "#0"},
+				"down": {"uv": [8, 10, 12, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 4, 8.5],
+			"to": [6.5, 7, 11.5],
+			"faces": {
+				"north": {"uv": [1, 7, 4, 10], "texture": "#0"},
+				"east": {"uv": [1, 7, 4, 10], "texture": "#0"},
+				"south": {"uv": [1, 7, 4, 10], "texture": "#0"},
+				"west": {"uv": [1, 7, 4, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [3, 7, 8],
+			"to": [7, 10, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 7], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 7], "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 7], "texture": "#0"},
+				"west": {"uv": [0, 4, 4, 7], "texture": "#0"},
+				"up": {"uv": [8, 10, 12, 14], "texture": "#0"},
+				"down": {"uv": [8, 10, 12, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [4.25, 10, 9.25],
+			"to": [5.75, 11, 10.75],
+			"faces": {
+				"north": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"east": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"south": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"west": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"up": {"uv": [4, 1, 5.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [9, 0, 4],
+			"to": [13, 4, 8],
+			"faces": {
+				"north": {"uv": [4, 10, 8, 14], "texture": "#0"},
+				"east": {"uv": [4, 10, 8, 14], "texture": "#0"},
+				"south": {"uv": [4, 10, 8, 14], "texture": "#0"},
+				"west": {"uv": [4, 10, 8, 14], "texture": "#0"},
+				"up": {"uv": [12, 10, 16, 14], "texture": "#0"},
+				"down": {"uv": [12, 10, 16, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 4, 4.5],
+			"to": [12.5, 7, 7.5],
+			"faces": {
+				"north": {"uv": [5, 7, 8, 10], "texture": "#0"},
+				"east": {"uv": [5, 7, 8, 10], "texture": "#0"},
+				"south": {"uv": [5, 7, 8, 10], "texture": "#0"},
+				"west": {"uv": [5, 7, 8, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [9, 7, 4],
+			"to": [13, 10, 8],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 7], "texture": "#0"},
+				"east": {"uv": [4, 4, 8, 7], "texture": "#0"},
+				"south": {"uv": [4, 4, 8, 7], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 7], "texture": "#0"},
+				"up": {"uv": [12, 10, 16, 14], "texture": "#0"},
+				"down": {"uv": [12, 10, 16, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [10.25, 10, 5.25],
+			"to": [11.75, 11, 6.75],
+			"faces": {
+				"north": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"east": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"south": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"west": {"uv": [6, 1, 7.5, 2], "texture": "#0"},
+				"up": {"uv": [4, 1, 5.5, 2.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"isOpen": false,
+			"export": true,
+			"visibility": true,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "group",
+			"isOpen": false,
+			"export": true,
+			"visibility": true,
+			"children": [4, 5, 6, 7]
+		}
+	]
+}

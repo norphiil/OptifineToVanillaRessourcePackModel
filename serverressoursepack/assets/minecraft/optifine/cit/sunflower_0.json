@@ -1,0 +1,85 @@
+{
+	"parent": "./cit_item_l",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/sunflower_bottom",
+		"1": "block/sunflower_top",
+		"2": "block/sunflower_back",
+		"3": "block/sunflower_front",
+		"1_0": "./flower_pot_l_0c"
+	},
+	"elements": [
+		{
+			"name": "flower_pot",
+			"from": [4, 0, 4],
+			"to": [12, 7, 12],
+			"faces": {
+				"north": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"east": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"south": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"west": {"uv": [4, 9, 12, 16], "texture": "#1_0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#1_0"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [2.8, 6, 8],
+			"to": [13.6, 18, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 14, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.8, 6, 8],
+			"to": [13.6, 18, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 14, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.8, 18, 8],
+			"to": [13.6, 24, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 14, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2.8, 18, 8],
+			"to": [13.6, 24, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 14, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 18, 9],
+			"to": [14, 30, 9],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 24, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 0, 0],
+			"translation": [-1, -3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [0,
+		{
+			"name": "flower",
+			"origin": [8, 18.5, 9],
+			"children": [1, 2, 3, 4, 5]
+		}
+	]
+}
